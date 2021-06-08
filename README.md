@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Macks25
-- 👀 I’m interested in Computer Science and Evrything that comes with it 
+- 👀 I’m interested in Computer Science and Everything that comes with it 
 - 🌱 I’m currently learning Java, Java Script, Python, SQL and C++
 
 <!---
