@@ -8,12 +8,9 @@ public static void main(String[] args) {
         Macks25.setInterest(interst);
         Macks25.setLanguages(languages);
         
-        
         while(true){
             Macks25.lernnewstuff();
             Macks25.doprojects();
             Macks25.enjoylife();
         }
-        
-        
     }
