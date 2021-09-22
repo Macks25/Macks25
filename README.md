@@ -1,12 +1,12 @@
 ```java
 public static void main(String[] args) {
         
-        human Macks25 = new human();
+        human Macks25 = new human(); //@Max
         
-        String[] interst = {"programming","sports","tech","travel"};
+        String[] interests = {"programming","sports","tech","travel"};
         String[] languages = {"java","javaScript","SQL","HTML","Python","german","english"};
-        Macks25.setInterest(interst);
-        Macks25.setLanguages(languages);
+        Macks25.setinterests(interests);
+        Macks25.setlanguages(languages);
         
         while(true){
             Macks25.lernnewstuff();
